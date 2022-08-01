@@ -1,1 +1,78 @@
+/* body {
+  background: whitesmoke;
+  color: red;
+  font-size: 20px;
+  font-weight: lighter; or  bold 
+ text-align: center;
+  margin-top: 5px;
+} */
 
+/* display: lnline;--->horizontal line it keeps the img
+display: block:---->vertical img which is one top of other
+margin-top:20px;---->represents the gap b/w top of the margin and the text (or) img
+div rules the world ----->it always fixes the atributes in html and it is a class and it is generic */
+
+/* Margins is a space around a element */
+
+/* body {
+  margin: 0;
+}
+.red {
+  background: #c71226;
+  height: 100px;
+  width: 100px;
+  margin-top: 20px;
+  /* margin-bottom: 60px; */
+/* margin-right: 60px;
+  margin-left: 60px;
+}
+.blue {
+  background: blue;
+  height: 100px;
+  width: 100px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 60px;
+  margin-left: 60px;
+}
+.green {
+  background: greenyellow;
+  height: 100px;
+  width: 100px;
+  /* margin-top: 20px; */
+/* margin-bottom: 60px;
+  margin-right: 60px;
+  margin-left: 60px;
+ */
+.main {
+  margin-top: 100px;
+  text-align: center;
+}
+.logo-img {
+  display: block;
+  width: 600px;
+  margin-right: 300px;
+  margin-left: 300px;
+  margin-bottom: 30px;
+}
+.search-input {
+  width: 400px;
+  height: 30px;
+  margin-left: 400px;
+  margin-right: 300px;
+  /* border-radius: 24px; */
+}
+.button {
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: 30px;
+  margin-right: 300px;
+  margin-left: 500px;
+  padding-top: 8px;
+  padding-left: 16px;
+  padding-right: 16px;
+  padding-bottom: 8px;
+  border-radius: 4px;
+}
+/* border:1px solid red;--->gives the width
+border-radius will change the shape of the border according to the required padding */
